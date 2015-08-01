@@ -1,0 +1,14 @@
+.navbar-brand {
+  padding: 0;
+}
+
+.navbar-brand img {
+  height: 40px;
+}
+
+#powered-by img {
+  max-width: 150px;
+  max-height: 100px;
+  display: inline;
+  margin: 15px;
+}
