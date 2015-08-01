@@ -1,3 +1,7 @@
 var React = require('react');
+var HelloWorld = require('./components/HelloWorld.jsx');
 
-console.log('React loaded', React);
+React.render(
+  <HelloWorld />,
+  document.getElementById('main')
+);
