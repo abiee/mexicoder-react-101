@@ -12,3 +12,17 @@
   display: inline;
   margin: 15px;
 }
+
+#contacts {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.contact {
+  border: 1px solid gray;
+  padding: 10px;
+}
+
+.contact span {
+  display: block;
+}
